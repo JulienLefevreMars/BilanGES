@@ -48,5 +48,8 @@ https://theshiftproject.org/wp-content/uploads/2020/06/2020-06_TSP-a-t-il-surest
 https://www.epfl.ch/schools/sv/wp-content/uploads/2019/09/EPFL_EmpreinteCarboneVisioConfrence_Resultats_20190523.pdf  
 [8] Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings, D. Ong, T Moors, V. Simaravan, Computer Communications, 50, 86-94, 2014
 
+Les références [1-4] nécessitent une inscription sur le [site de l'ADEME](https://www.bilans-ges.ademe.fr/fr/basecarbone/) . Le [guide méthodologique](https://www.bilans-ges.ademe.fr/docutheque/docs/Info%20GES_Guide%20m%C3%A9thodo_MAJ2018.pdf) en accès libre ne prend pas en compte certains
+paramètres comme le forçage radiatif. 
+
 
 
