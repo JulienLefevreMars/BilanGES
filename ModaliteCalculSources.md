@@ -40,11 +40,12 @@ de grandes marges d'erreur, 0.7g à 35g eqCO2/min comme dans cet article de 2014
 [2] https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/idRegle/1/categorie/554/siGras/1  
 [3] https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/idRegle/1/categorie/151/siGras/1  
 [4] https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/choix-categorie/idRegle/1/categorie/177/siGras/1  
-[5] Factcheck: What is the carbon footprint of streaming video on Netflix? de George Kamiya,   
-2020 https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix  
+[5] Factcheck: What is the carbon footprint of streaming video on Netflix? de George Kamiya, 2020   
+https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix  
 [6] The Shift Project a-t-il vraiment surestimé l’empreinte carbone de la vidéo ? de Maxime Efoui Hess et Jean-Noël Geist, 2020  
 https://theshiftproject.org/wp-content/uploads/2020/06/2020-06_TSP-a-t-il-surestime%C3%A9-lempreinte-carbone-de-la-vid%C3%A9o-en-ligne_FR.pdf  
-[7] https://www.epfl.ch/schools/sv/wp-content/uploads2019/09/EPFL_EmpreinteCarboneVisioConfrence_Resultats_20190523.pdf  
+[7] Empreinte environnementale d'une visio-conférence, Denis Bochatay, 2019  
+https://www.epfl.ch/schools/sv/wp-content/uploads/2019/09/EPFL_EmpreinteCarboneVisioConfrence_Resultats_20190523.pdf  
 [8] Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings, D. Ong, T Moors, V. Simaravan, Computer Communications, 50, 86-94, 2014
 
 
