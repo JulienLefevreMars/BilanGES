@@ -1,10 +1,10 @@
-# Modalités de calcul et sources
+# Modalités de calcul du bilan d'émissions de gaz à effets de serre 
 
 
 ## Avion & Voiture: 
 
 L’ADEME estime dans sa Base Carbone que selon le type d’avion et la distance parcourue, les
-émissions de gaz à effet de serre en équivalent CO2 (incluant le forçage radiatif) se situent entre 188 et 305 g de
+émissions de gaz à effet de serre en équivalent CO2 (incluant le *forçage radiatif*) se situent entre **188 et 305 g** de
 CO2 par km et par passager pour les avions de plus de 100 passagers [1](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/idRegle/1/categorie/556/siGras/1), (et jusqu’à 526 g de CO2 par km et
 par passager pour les plus petits des avions (< 50 passagers [2](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/idRegle/1/categorie/554/siGras/1)). Nous avons utilise un chiffre estimé de 285 gr
 CO2/km/personne.
@@ -12,15 +12,15 @@ CO2/km/personne.
 ## Voiture: 
 
 L’ADEME estime, toujours dans sa Base Carbone, que une voiture individuelle se situerait en France
-entre 73 et 193 g de CO2 par km et par passager [3](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/idRegle/1/categorie/151/siGras/1) (un chiffre qui depend du type de voiture et qui evidémment
-diminue si la voiture transporte plusieurs passagers). Nous avons utilisé un chiffre estimé de 164 gr
+entre **73 et 193 g** de CO2 par km et par passager [3](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/idRegle/1/categorie/151/siGras/1) (un chiffre qui depend du type de voiture et qui evidémment
+diminue si la voiture transporte plusieurs passagers). Nous avons utilisé un chiffre estimé de **164 g**
 CO2/km/personne, et nous avons calculé la production de CO2 pour 44 personnes, avec une population de 100
 personnes à l’INT, dont 44% utilisent la voiture, avec une moyenne de 16 km/jour/personne, et 25 jours/mois.
 
 ## Train: 
 
-(estimation Base Carbone ADEME), 5,3 g/Km/personne pour grandes lignes, 1.73 pour TGV et 0.025 g de
-CO2 par km et passenger pour les TER [4](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/choix-categorie/idRegle/1/categorie/177/siGras/1). On prend une estimation de 3 g de CO2 par km et passenger
+(estimation Base Carbone ADEME), **5.3** g/Km/personne pour les grandes lignes, **1.73** pour le TGV et 0.025 g de
+CO2 par km et passenger pour les TER [4](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/choix-categorie/idRegle/1/categorie/177/siGras/1). On prend une estimation de **3 g** de CO2 par km et passenger
 considerant que la pluspart des deplacement est en TGV.
 
 ## Visioconférence:
