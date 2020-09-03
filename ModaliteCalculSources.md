@@ -27,7 +27,7 @@ considerant que la pluspart des deplacement est en TGV.
 
 Le chiffre clef de **1min de vidéo = 1 g** eqCO2 se base sur [5](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix) qui donne une fourchette
 moyenne de 28 à 57g de CO2 pour 30min de vidéo. Ces chiffres sont plutôt bas (4 à 7 fois
-moins) par rapport à ceux proposés par le Shift Project dans [6](https://theshiftproject.org/wp-content/uploads/2020/06/2020-06_TSP-a-t-il-surestime%C3%A9-lempreinte-carbone-de-la-vid%C3%A9o-en-ligne_FR.pdf)
+moins) par rapport à ceux proposés par le Shift Project dans [6](https://theshiftproject.org/wp-content/uploads/2020/06/2020-06_TSP-a-t-il-surestime%C3%A9-lempreinte-carbone-de-la-vid%C3%A9o-en-ligne_FR.pdf).  
 Une **hypothèse sous-jacente forte** est qu'une minute de visioconférence correspond à la
 même consommation énergétique qu'une minute de streaming vidéo. Sur la
 vidéoconférence des chiffres circulent sans forcément de bases précises, 15 à 50g
