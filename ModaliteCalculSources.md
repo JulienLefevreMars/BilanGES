@@ -19,7 +19,7 @@ personnes à l’INT, dont 44% utilisent la voiture, avec une moyenne de 16 km/j
 
 ## Train: 
 
-(estimation Base Carbone ADEME), **5.3** g/Km/personne pour les grandes lignes, **1.73** pour le TGV et 0.025 g de
+**5.3** g/Km/personne pour les grandes lignes, **1.73** pour le TGV et 0.025 g de
 CO2 par km et passenger pour les TER [4](https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/choix-categorie/idRegle/1/categorie/177/siGras/1). On prend une estimation de **3 g** de CO2 par km et passenger
 considerant que la pluspart des deplacement est en TGV.
 
